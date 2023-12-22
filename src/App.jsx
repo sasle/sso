@@ -1,5 +1,6 @@
+import LoginButton from "./components/login-button";
 function App() {
-  return <h1>SSO App</h1>;
+  return <LoginButton />;
 }
 
 export default App;
